@@ -85,7 +85,7 @@ The model's performance was evaluated using:
 ## Confusion Matrix Heatmap
 The heatmap below represents the confusion matrix for the model, showing correct and incorrect predictions:
 
-![Confusion Matrix Heatmap](images/heatmap.png)
+<img width="859" alt="image" src="https://github.com/user-attachments/assets/ff4e8956-a02d-441f-a75e-b789daec412a">
 
 - The model performs well on approved loans but struggles with predicting rejected loans, indicating a need for class balancing.
 
