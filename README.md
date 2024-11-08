@@ -99,6 +99,3 @@ The heatmap below represents the confusion matrix for the model, showing correct
 ## License
 This project is licensed under the MIT License.
 
----
-
-This **README.md** provides a structured overview of the project, including setup instructions, technical details, and future improvements.
